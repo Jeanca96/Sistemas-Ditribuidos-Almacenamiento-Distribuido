@@ -67,4 +67,4 @@ if __name__ == "__main__":
     print("\n--- Intento de escritura después de una posible caída del primario ---")
     print(instancia_cliente.escribir("nueva_clave", "nuevo_valor_despues_intento_failover"))
 
-# No sé lo que pasará
+
